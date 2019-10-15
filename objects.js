@@ -1,3 +1,2 @@
-var playlist = { Ladygaga: "shallow"
-}; 
- FunctionupdatePlaylist.
+var playlist = { Ladygaga: "shallow";}
+    
