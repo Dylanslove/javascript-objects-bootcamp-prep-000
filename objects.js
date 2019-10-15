@@ -1,2 +1,2 @@
 var playlist = { Ladygaga: "shallow"};
-    Object.assign; \\\(updateplaylist)'pokerface';
+    Object.assign;(updateplaylist)'pokerface'
