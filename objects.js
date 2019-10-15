@@ -1,3 +1,3 @@
 var playlist = { Ladygaga: 'shallow'
 }; 
- FunctionupdatePlaylist.pokerface; 
+ FunctionupdatePlaylist.Ladygaga;'poker face'; 
