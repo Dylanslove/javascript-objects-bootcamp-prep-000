@@ -1,3 +1,3 @@
-var playlist = { Ladygaga: 'shallow'
+var playlist = { Artists "songtitle";
 }; 
  FunctionupdatePlaylist.Ladygaga;'poker face'; 
